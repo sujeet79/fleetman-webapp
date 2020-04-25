@@ -1,0 +1,12 @@
+/home/ubuntu/fleetman-webapp/src/main/java/com/virtualpairprogrammers/WebSocketConfig.java
+/home/ubuntu/fleetman-webapp/src/main/java/com/virtualpairprogrammers/services/RemotePositionMicroserviceCalls.java
+/home/ubuntu/fleetman-webapp/src/main/java/com/virtualpairprogrammers/controllers/VehicleController.java
+/home/ubuntu/fleetman-webapp/src/main/java/com/virtualpairprogrammers/services/RemoteMicroserviceStubImpl.java
+/home/ubuntu/fleetman-webapp/src/main/java/com/virtualpairprogrammers/domain/Vehicle.java
+/home/ubuntu/fleetman-webapp/src/main/java/com/virtualpairprogrammers/TomcatWARApplication.java
+/home/ubuntu/fleetman-webapp/src/main/java/com/virtualpairprogrammers/FleetmanApplication.java
+/home/ubuntu/fleetman-webapp/src/main/java/com/virtualpairprogrammers/services/PositionTrackingExternalService.java
+/home/ubuntu/fleetman-webapp/src/main/java/com/virtualpairprogrammers/data/VehicleRepository.java
+/home/ubuntu/fleetman-webapp/src/main/java/com/virtualpairprogrammers/Startup.java
+/home/ubuntu/fleetman-webapp/src/main/java/com/virtualpairprogrammers/controllers/Position.java
+/home/ubuntu/fleetman-webapp/src/main/java/com/virtualpairprogrammers/CloudConfiguration.java
